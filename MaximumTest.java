@@ -25,6 +25,5 @@ public class MaximumTest {
         System.out.printf( "%s, %s 和 %s 中最大的数为 %s\n","pear",
                 "apple", "orange", maximum( "pear", "apple", "orange" ) );
     }
-
-
+    
 }
