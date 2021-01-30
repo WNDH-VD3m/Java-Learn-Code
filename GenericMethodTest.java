@@ -20,8 +20,4 @@ public class GenericMethodTest {
         printArray(charArray);
     }
 
-
-
-
-
 }
